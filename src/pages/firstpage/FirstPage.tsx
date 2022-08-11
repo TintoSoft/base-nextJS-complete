@@ -1,6 +1,6 @@
-import Link from "next/link";
+import Link from 'next/link';
 
-export const FirstPage = () => {
+const FirstPage = () => {
   return (
     <>
       <h2>La primera paginaaa</h2>
@@ -8,3 +8,5 @@ export const FirstPage = () => {
     </>
   );
 };
+
+export default FirstPage;

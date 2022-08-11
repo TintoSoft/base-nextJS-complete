@@ -1,6 +1,6 @@
-import { Topbar } from "components/organisms/Topbar";
-import { Footer } from "components/organisms/Footer";
-import { Head } from "components/atoms/Head";
+import { Topbar } from 'components/organisms/Topbar';
+import { Footer } from 'components/organisms/Footer';
+import { Head } from 'components/atoms/Head';
 
 type LayoutProps = {
   children: React.ReactNode;
